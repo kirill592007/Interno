@@ -11,61 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="447e97a0-fc33-4dea-a1fe-95981d853edb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Interno.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/blogs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/designs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/interior.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/join.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/logos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/numbers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/projects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/thinks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/IMAGE (1) (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/IMAGE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/arrow1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/arrow2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/arrow3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/arrow4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/arrow5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/blogs card img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/blogs card img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/blogs card img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/blogs card img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/blogs card img5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/blogs card img6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cards image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/designs img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/designs img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/footer bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/numbers deco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/projects card img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/projects card img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/projects card img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/projects card img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/thinks ava1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/thinks ava2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/thinks ava3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/jquery-ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/parallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/wow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +97,7 @@
       <workItem from="1663401300578" duration="2789000" />
       <workItem from="1663417380181" duration="6119000" />
       <workItem from="1663480589699" duration="478000" />
-      <workItem from="1663481118137" duration="303000" />
+      <workItem from="1663481118137" duration="1720000" />
     </task>
     <servers />
   </component>
