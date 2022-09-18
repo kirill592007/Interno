@@ -1,0 +1,20 @@
+.logos{
+    padding: 0 55px 0 49px;
+    margin: 139px 0 113px;
+}
+.logos__content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+@media (max-width: 992px) {
+    .logos{
+        padding: 0;
+    }
+}
+@media (max-width: 768px) {
+    .logos__content{
+        flex-direction: column;
+        row-gap: 30px;
+    }
+}

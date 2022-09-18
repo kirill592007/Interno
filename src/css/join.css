@@ -1,0 +1,70 @@
+.join{
+    padding: 100px 0 95px;
+    background: var(--haki);
+    border-radius: 70px;
+    text-align: center;
+    margin: 141px 50px 80px;
+}
+.join__title{
+    font-size: 50px;
+    line-height: 75px;
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+}
+.join .subtitle{
+    color: #FFFFFF;
+    margin: 9px 0 31px;
+}
+.join__btn{
+    background: #CDA274;
+    border: 2px solid #CDA274;
+    border-radius: 18px;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.72px;
+    color: #FFFFFF;
+    padding: 22px 77px 22px 34px;
+    position: relative;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.join__btn:after{
+    position: absolute;
+    content: url("../images/arrow5.png");
+    bottom: 7px;
+    right: 20px;
+}
+.join__btn:before{
+    position: absolute;
+    content: url("../images/arrow4.png");
+    right: 21px;
+    bottom: 24px;
+}
+.join__btn:hover{
+    background: #FFFFFF;
+    color: #CDA274;
+}
+@media (max-width: 768px) {
+    .join__title{
+        font-size: 45px;
+    }
+}
+@media (max-width: 576px) {
+    .join__title{
+        font-size: 25px;
+    }
+    .join .subtitle{
+        font-size: 17px;
+    }
+}
+@media (max-width: 425px) {
+    .join{
+        margin: 141px 24px 80px;
+    }
+}
+@media (max-width: 375px) {
+    .join__title{
+        font-size: 26px;
+        line-height: 40px;
+    }
+}

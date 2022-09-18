@@ -1,0 +1,122 @@
+.footer{
+    padding-top: 49px;
+}
+.footer__logo .subtitle{
+    margin: 25px 0 30px;
+}
+.footer__icons{
+    display: flex;
+    column-gap: 40px;
+}
+.footer__top{
+    display: flex;
+    margin-bottom: 111px;
+    justify-content: space-between;
+}
+.footer__title{
+    font-size: 25px;
+    line-height: 38px;
+    letter-spacing: 0.22px;
+    color: #292F36;
+}
+.footer__link{
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    transition: all 0.5s;
+}
+.footer__link:hover{
+    font-size: 25px;
+    color: #15191c;
+}
+.footer__list{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.footer__bottom{
+    display: flex;
+    column-gap: 10px;
+    padding: 35px 0 36px;
+    justify-content: center;
+    position: relative;
+}
+.footer__bottom .subtitle:nth-child(2){
+    color: #CDA274;
+}
+.footer__bottom .subtitle:nth-child(4){
+    color: #CDA274;
+}
+@media (max-width: 992px) {
+    .footer__link{
+        font-size: 19px;
+    }
+    .footer__logo .subtitle{
+        font-size: 19px;
+        line-height: 25px;
+    }
+}
+@media (max-width: 876px) {
+    .footer__logo .subtitle {
+        margin: 1px 0 11px;
+    }
+    .footer__list{
+        row-gap: 10px;
+    }
+    .footer__link{
+        font-size: 15px;
+    }
+    .footer__bottom .subtitle{
+        font-size: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .footer__link{
+        font-size: 13px;
+    }
+    .footer__title{
+        font-size: 22px;
+    }
+    .footer__logo .subtitle{
+        font-size: 15px;
+    }
+    .footer__bottom .subtitle{
+        font-size: 17px;
+    }
+}
+@media (max-width: 676px) {
+    .footer__list{
+        row-gap: 1px;
+    }
+    .footer__logo .subtitle{
+        font-size: 13px;
+    }
+    .footer__link{
+        font-size: 10px;
+    }
+    .footer__bottom .subtitle{
+        font-size: 14px;
+    }
+}
+@media (max-width: 576px) {
+    .footer__top{
+        flex-wrap: wrap;
+    }
+    .footer__list:last-child{
+        margin: 0 auto;
+    }
+    .footer__bottom .subtitle{
+        font-size: 9px;
+    }
+}
+@media (max-width: 425px) {
+    .footer__bottom .subtitle{
+        font-size: 8px;
+    }
+}
+@media (max-width: 375px) {
+    .footer__bottom .subtitle{
+        font-size: 6px;
+    }
+}

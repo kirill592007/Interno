@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import "header.css";
+@import "interior.css";
+@import "cards.css";
+@import "designs.css";
+@import "thinks.css";
+@import "logos.css";
+@import "projects.css";
+@import "numbers.css";
+@import "blogs.css";
+@import "join.css";
+@import "footer.css";
+@import "contact.css";
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+    font-weight: 400;
+    font-family: "Jost", sans-serif;
+    scroll-behavior: smooth;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "DM Serif Display", sans-serif;
+}
+:root{
+    --haki: #292F36;
+    --gray: #4D5053;
+}
+.container{
+    max-width: 1260px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+.subtitle{
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: var(--gray);
+}
+.title{
+    font-size: 47px;
+    line-height: 62px;
+    letter-spacing: 0.22px;
+    color: var(--haki);
+    text-align: center;
+}
+.btn{
+    background: var(--haki);
+    border: 2px solid #292F36;
+    border-radius: 18px;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.72px;
+    color: #FFFFFF;
+    padding: 22px 77px 22px 34px;
+    position: relative;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.btn:after{
+    position: absolute;
+    content: url("../images/arrow1.png");
+    bottom: 7px;
+    right: 20px;
+}
+.btn:before{
+    position: absolute;
+    content: url("../images/arrow2.png");
+    right: 21px;
+    bottom: 24px;
+}
+.btn:hover{
+    background: #FFFFFF;
+    color: var(--haki);
+}
+.card-arrow{
+    width: 70px;
+    height: 70px;
+    background: #F4F0EC;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.hidden{
+    overflow: hidden;
+}
+@media (max-width: 1440px) {
+
+}
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 1024px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 876px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 676px) {
+
+}
+@media (max-width: 576px) {
+
+}
+@media (max-width: 425px) {
+
+}
+@media (max-width: 375px) {
+
+}

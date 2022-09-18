@@ -1,0 +1,116 @@
+.projects {
+    padding: 13px 0 60px;
+}
+.projects__card-title{
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.22px;
+    color: var(--haki);
+    margin-top: 24px;
+}
+.projects__card-subtitle{
+    text-align: center;
+    margin: 20px 0 10px;
+}
+.projects__card .subtitle{
+    margin: 0;
+}
+.projects__cards{
+    display: flex;
+    margin-top: 61px;
+    justify-content: space-between;
+}
+.projects__cards-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+}
+.card-arrow{
+    width: 70px;
+    height: 70px;
+    background: #F4F0EC;
+    border-radius: 100px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width: 1440px) {
+    .projects__img{
+        width: 100%;
+    }
+    .projects__card{
+        width: 547px;
+    }
+}
+@media (max-width: 1200px) {
+    .projects__card {
+        width: 471px;
+    }
+}
+@media (max-width: 1024px) {
+    .projects__card {
+        width: 455px;
+    }
+}
+@media (max-width: 992px) {
+    .projects__card {
+        width: 393px;
+    }
+}
+@media (max-width: 876px) {
+    .projects__card {
+        width: 341px;
+    }
+    .projects .subtitle{
+        font-size: 20px;
+    }
+    .projects__card-title{
+        font-size: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .projects__cards {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .projects .subtitle{
+        font-size: 18px;
+    }
+    .projects__cards-content{
+        margin: 0 0 20px 0;
+    }
+}
+@media (max-width: 676px) {
+    .projects .subtitle {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .projects__card-subtitle{
+        margin: 0 0 10px 0;
+    }
+}
+@media (max-width: 576px) {
+    .card-arrow{
+        width: 62px;
+        height: 62px;
+    }
+}
+@media (max-width: 425px) {
+    .projects .title{
+        font-size: 40px;
+    }
+}
+@media (max-width: 375px) {
+    .projects__card {
+        width: 291px;
+    }
+    .projects .title{
+        font-size: 35px;
+    }
+    .projects .subtitle{
+        font-size: 13px;
+    }
+}
